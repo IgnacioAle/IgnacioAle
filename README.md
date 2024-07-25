@@ -18,7 +18,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### I am a Full Stack Developer
 - 🔭 **Currently:** Enhancing my skills
@@ -53,22 +53,3 @@
 <br>
 <br>
 <br>
-
-
-
-### Github Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sameer1604&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sameer's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer1604&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sameer's Top Languages">
-
-<p align="center">
-    NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
-</p>
-
------
-Credits: [sameer1604](https://github.com/sameer1604)
-
-Last Edited on: 16/07/2021
-
-
