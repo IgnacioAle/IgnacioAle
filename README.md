@@ -102,3 +102,5 @@
     <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
   </a>
 </p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
