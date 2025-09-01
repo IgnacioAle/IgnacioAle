@@ -87,7 +87,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,idea" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,idea,azure,windows,vmware,powershell,notion,jira" />
   </a>
 </p>
 
